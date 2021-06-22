@@ -12,5 +12,5 @@ jobs:
         run: echo "hello world"
       - name: multiline script
         run:
-          node -v
+          node -V
           npm -v
